@@ -23,5 +23,11 @@ header h1 {
 header button {
     background: var(--color-grey-8);
     border-radius: 5px;
-    width: 150px;
+    width: 36px;
+    height: 36px;
+}
+
+header button img{
+    width: 16px;
+    height: 18px;
 }
